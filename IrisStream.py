@@ -1,16 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
-pip install -U scikit-learn
-import sklearn
-
-
-# In[ ]:
-
-
 import streamlit as st
 import pandas as pd
 from sklearn import datasets
